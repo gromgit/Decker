@@ -22,7 +22,9 @@ make runweb      # (optional) open in your default browser
 
 Native-Decker
 -------------
-Decker is also available as a native application, written in C. Building Native-Decker from source requires:
+Decker is also available as a native application, written in C. Prebuilt packages with example decks and Lilt scripts are available for macOS and Linux via Homebrew: `brew install decker`.
+
+Building Native-Decker from source requires:
 
 - a c compiler and libc
 - the `xxd` utility (standard with MacOS and most \*nix distros)
